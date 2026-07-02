@@ -1,0 +1,7 @@
+
+opencv-python-headless
+numpy
+ultralytics         # For YOLOv8 Segmentation
+simple-lama-inpainting  # For Advanced GAN Inpainting
+colorama            # For pretty terminal logs
+pyyaml              # For config file handling

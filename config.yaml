@@ -1,0 +1,8 @@
+
+directories:
+  input: "./data/input_images"
+  output: "./data/processed_images"
+  logs: "./data/logs"
+settings:
+  target_class: "cat"  # The object to remove (e.g., person, car, cup)
+  confidence_threshold: 0.5

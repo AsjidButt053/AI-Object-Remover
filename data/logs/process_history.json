@@ -1,0 +1,184 @@
+[
+    {
+        "timestamp": "2025-11-28T16:26:46.186281",
+        "file": "cat1.png",
+        "object_removed": "dog",
+        "detection_confidence": 0.0,
+        "status": "FAILED"
+    },
+    {
+        "timestamp": "2025-11-28T16:26:46.546140",
+        "file": "cat2.jpg",
+        "object_removed": "dog",
+        "detection_confidence": 0.0,
+        "status": "FAILED"
+    },
+    {
+        "timestamp": "2025-11-28T16:26:50.488894",
+        "file": "dog1.png",
+        "object_removed": "dog",
+        "detection_confidence": 0.29076242446899414,
+        "status": "SUCCESS"
+    },
+    {
+        "timestamp": "2025-11-28T16:26:53.280923",
+        "file": "dog2.jpg",
+        "object_removed": "dog",
+        "detection_confidence": 0.7442728281021118,
+        "status": "SUCCESS"
+    },
+    {
+        "timestamp": "2025-11-28T16:30:24.888524",
+        "file": "cat1.png",
+        "object_removed": "cat",
+        "detection_confidence": 0.6010327339172363,
+        "status": "SUCCESS"
+    },
+    {
+        "timestamp": "2025-11-28T16:31:22.369264",
+        "file": "cat2.jpg",
+        "object_removed": "cat",
+        "detection_confidence": 0.889350950717926,
+        "status": "SUCCESS"
+    },
+    {
+        "timestamp": "2025-11-28T16:31:24.795188",
+        "file": "dog1.png",
+        "object_removed": "cat",
+        "detection_confidence": 0.0,
+        "status": "FAILED"
+    },
+    {
+        "timestamp": "2025-11-28T16:31:25.615669",
+        "file": "dog2.jpg",
+        "object_removed": "cat",
+        "detection_confidence": 0.0,
+        "status": "FAILED"
+    },
+    {
+        "timestamp": "2025-11-28T17:17:30.122470",
+        "file": "cat1.png",
+        "object_removed": "User_Selected_Area",
+        "detection_confidence": 1.0,
+        "status": "SUCCESS"
+    },
+    {
+        "timestamp": "2025-11-28T17:19:05.266588",
+        "file": "cat2.jpg",
+        "object_removed": "User_Selected_Area",
+        "detection_confidence": 1.0,
+        "status": "SUCCESS"
+    },
+    {
+        "timestamp": "2025-11-28T17:19:19.487108",
+        "file": "dog1.png",
+        "object_removed": "User_Selected_Area",
+        "detection_confidence": 1.0,
+        "status": "SUCCESS"
+    },
+    {
+        "timestamp": "2025-11-28T17:19:28.876816",
+        "file": "dog2.jpg",
+        "object_removed": "User_Selected_Area",
+        "detection_confidence": 1.0,
+        "status": "SUCCESS"
+    },
+    {
+        "timestamp": "2025-12-01T11:18:19.259128",
+        "file": "cat.png",
+        "object_removed": "User_Selected_Area",
+        "detection_confidence": 1.0,
+        "status": "SUCCESS"
+    },
+    {
+        "timestamp": "2025-12-01T11:18:32.079965",
+        "file": "dog.jpg",
+        "object_removed": "User_Selected_Area",
+        "detection_confidence": 1.0,
+        "status": "SUCCESS"
+    },
+    {
+        "timestamp": "2025-12-01T12:31:09.680777",
+        "file": "cat.png",
+        "object_removed": "User_Selected_Area",
+        "detection_confidence": 1.0,
+        "status": "SUCCESS"
+    },
+    {
+        "timestamp": "2025-12-01T12:31:22.486340",
+        "file": "dog.jpg",
+        "object_removed": "User_Selected_Area",
+        "detection_confidence": 1.0,
+        "status": "SUCCESS"
+    },
+    {
+        "timestamp": "2025-12-16T22:14:34.457705",
+        "file": "cat.png",
+        "object_removed": "Manual",
+        "detection_confidence": 1.0,
+        "status": "SUCCESS"
+    },
+    {
+        "timestamp": "2025-12-16T22:15:28.359722",
+        "file": "cat.png",
+        "object_removed": "person",
+        "detection_confidence": 1.0,
+        "status": "SUCCESS"
+    },
+    {
+        "timestamp": "2025-12-16T22:17:28.385236",
+        "file": "dog.jpg",
+        "object_removed": "Manual",
+        "detection_confidence": 1.0,
+        "status": "SUCCESS"
+    },
+    {
+        "timestamp": "2025-12-17T13:08:51.853014",
+        "file": "cat.png",
+        "object_removed": "Manual",
+        "detection_confidence": 1.0,
+        "status": "SUCCESS"
+    },
+    {
+        "timestamp": "2025-12-17T13:09:15.179039",
+        "file": "cat.png",
+        "object_removed": "Manual",
+        "detection_confidence": 1.0,
+        "status": "SUCCESS"
+    },
+    {
+        "timestamp": "2025-12-17T13:09:36.696105",
+        "file": "dog.jpg",
+        "object_removed": "Manual",
+        "detection_confidence": 1.0,
+        "status": "SUCCESS"
+    },
+    {
+        "timestamp": "2025-12-17T13:56:38.853050",
+        "file": "download.jpg",
+        "object_removed": "car",
+        "detection_confidence": 1.0,
+        "status": "SUCCESS"
+    },
+    {
+        "timestamp": "2025-12-17T13:56:55.773746",
+        "file": "download.jpg",
+        "object_removed": "Manual",
+        "detection_confidence": 1.0,
+        "status": "SUCCESS"
+    },
+    {
+        "timestamp": "2025-12-17T14:16:15.576478",
+        "file": "dog.jpg",
+        "object_removed": "Manual",
+        "detection_confidence": 1.0,
+        "status": "SUCCESS"
+    },
+    {
+        "timestamp": "2025-12-17T14:16:43.654144",
+        "file": "download.jpg",
+        "object_removed": "car",
+        "detection_confidence": 1.0,
+        "status": "SUCCESS"
+    }
+]
